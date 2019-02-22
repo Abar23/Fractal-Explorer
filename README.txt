@@ -1,4 +1,3 @@
-#Fractal-Explorer
 This program allows the user to explorer the mandelbrot, julia, and tricorn sets. 
 
 Controls for the program:
