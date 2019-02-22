@@ -1,4 +1,5 @@
-This program allows the user to explorer the mandelbrot, julia, and tricorn sets. 
+This program allows the user to explorer the mandelbrot, julia, and tricorn sets. Coloring and generation of the
+fractals is achieved by utilizing the escape time algorithm.
 
 Controls for the program:
 
